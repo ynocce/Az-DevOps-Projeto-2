@@ -5,6 +5,8 @@ Esse tutorial tem como objetivo criar uma esteira de deploy automatizado usando:
 - GitHub
 - Azure Pipelines
 - Azure Static Web
+  
+##
 
 - **Criado um Static Web App no Portal da Azure.**
     
