@@ -1,0 +1,21 @@
+#Pipeline de Deploy no Azure Portal
+#Serviço usado: Azure Static Web App
+#Pipeline no repos do github
+
+
+trigger:
+  branches:
+    include:
+    - main
+stages:
+- stage: __default
+  jobs:
+  - job: Job
+    pool:
+      vmImage: ubuntu-latest
+    steps:
+    - task: AzureStaticWebApp@0
+      inputs:
+        app_location: 'portifolio.integrado.azureDevOps'
+        azure_static_web_apps_api_token: '$(token)' #não esqueça que esse token é gerado no Azure, lá do seu Static Web App.
+
