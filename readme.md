@@ -33,6 +33,7 @@ Esse tutorial tem como objetivo criar uma esteira de deploy automatizado usando:
     
     ![Untitled](imagens/Untitled%203.png)
     
+##
 
 - **Criado uma pipeline yaml integrada com o GitHub.**
     
