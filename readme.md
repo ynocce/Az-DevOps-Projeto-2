@@ -57,7 +57,7 @@ Esse tutorial tem como objetivo criar uma esteira de deploy automatizado usando:
     ![Untitled](imagens/Untitled%207.png)
     
     **4** - Agora crie uma nova Variables no seu pipeline Yaml com o nome de “**token**” e cole o token que você copiou para o bloco de notas e clique em ok → Save.
-    Nota: Recomendo marcar a opção “Keep this value secret”.
+    Nota: Recomendo marcar a opção “**Keep this value secret**”.
     
     ![Untitled](imagens/Untitled%208.png)
     
