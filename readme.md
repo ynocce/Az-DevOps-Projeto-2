@@ -1,4 +1,4 @@
-# Deploy de um site estático na Azure + Az DevOps.
+# Deploy de um site estático na Azure Integrado com o Az-DevOps.
 
 Esse tutorial tem como objetivo criar uma esteira de deploy automatizado usando:
 
