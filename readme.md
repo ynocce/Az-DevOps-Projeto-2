@@ -69,5 +69,5 @@ Esse tutorial tem como objetivo criar uma esteira de deploy automatizado usando:
     
     **6** - Pronto, seu site estático está hospedado e integrado com o Azure DevOps e automatizado.
     
-    - Quando tiver um commit na main do seu repos, a pipeline ira disparar e com isso fara um upload do seu site estático no seu Static Web App na Azure, fazendo com que, seu site sempre esteja atualizado com suas mudanças.
+    - Quando fizer um commit na main do seu repos, a pipeline ira disparar e com isso fara um upload do seu site estático no seu Static Web App na Azure, fazendo com que, seu site sempre esteja atualizado com suas mudanças.
     - Vejo o meu site: [**https://lemon-mud-0b9108f0f.4.azurestaticapps.net**](https://lemon-mud-0b9108f0f.4.azurestaticapps.net/)
